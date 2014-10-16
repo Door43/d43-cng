@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cng:home|Door43 (cng)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cng|d43-cng repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cng/archive/master.zip|d43-cng.zip]]
+
+**Recent Changes**
+{{changes>ns = cng}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cng|Ethnologue data]]
+
